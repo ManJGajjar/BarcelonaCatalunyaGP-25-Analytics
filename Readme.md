@@ -1,4 +1,4 @@
-# Miami GP 2025 — FastF1 Race Analytics
+# Barcelona-Catalunya GP 2025 — FastF1 Race Analytics
 
 F1 race analysis notebook using FastF1 library with 9+ visualizations.
 
@@ -6,7 +6,7 @@ F1 race analysis notebook using FastF1 library with 9+ visualizations.
 
 ```bash
 pip install -r requirements.txt
-jupyter notebook miami_gp_2025_analysis.ipynb
+jupyter notebook barcelona_gp_2025_analysis.ipynb
 ```
 
 ## Features
